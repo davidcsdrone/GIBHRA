@@ -2,7 +2,7 @@
 
 [![Conference](https://img.shields.io/badge/Published-IEEE%20WMNC%202025-blue.svg)](https://doi.org/10.23919/WMNC67099.2025.11299275)
 
-https://ieeexplore.ieee.org/document/11299275/ 
+https://opendl.ifip-tc6.org/db/conf/wmnc/wmnc2025/1571186547.pdf 
 
 ## Overview
 This repository contains the MATLAB simulation code and algorithmic implementation for the **Geometric Inversion-Based Hole Restoration Algorithm (GIBHRA)**. 
